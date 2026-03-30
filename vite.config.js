@@ -4,7 +4,7 @@ import { resolve } from 'path'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/PlantParadise/',   // ← добавить эту строку
+  base: '/PlantParadise/',
   resolve: {
     alias: {
       '@': resolve(__dirname, './src'),
