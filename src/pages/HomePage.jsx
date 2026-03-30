@@ -64,34 +64,34 @@ const HomePage = () => {
                     <p className="cont_t">У нас вы найдёте:</p>
                     <div className="grid_cont">
                         <Link to="/catalog?category=succulents" className="ph_t">
-                            <img src="/src/assets/categories/succulents.png" alt="Суккуленты" style={{ width: '100%', height: 'auto', borderRadius: '10px' }} />
-                            <p>🌵 Суккуленты</p>
-                        </Link>
+    <img src="/images/categories/succulents.png" alt="Суккуленты" style={{ width: '100%', height: 'auto', borderRadius: '10px' }} />
+    <p>🌵 Суккуленты</p>
+</Link>
 
-                        <Link to="/catalog?category=foliage" className="ph_t">
-                            <img src="/src/assets/categories/foliage.png" alt="Декоративно-лиственные" style={{ width: '100%', height: 'auto', borderRadius: '10px' }} />
-                            <p>🌿 Декоративно-лиственные</p>
-                        </Link>
+<Link to="/catalog?category=foliage" className="ph_t">
+    <img src="/images/categories/foliage.png" alt="Декоративно-лиственные" style={{ width: '100%', height: 'auto', borderRadius: '10px' }} />
+    <p>🌿 Декоративно-лиственные</p>
+</Link>
 
-                        <Link to="/catalog?category=flowering" className="ph_t">
-                            <img src="/src/assets/categories/flowering.png" alt="Цветущие" style={{ width: '100%', height: 'auto', borderRadius: '10px' }} />
-                            <p>🌸 Цветущие</p>
-                        </Link>
+<Link to="/catalog?category=flowering" className="ph_t">
+    <img src="/images/categories/flowering.png" alt="Цветущие" style={{ width: '100%', height: 'auto', borderRadius: '10px' }} />
+    <p>🌸 Цветущие</p>
+</Link>
 
-                        <Link to="/catalog?category=palms" className="ph_t">
-                            <img src="/src/assets/categories/palms.png" alt="Пальмы" style={{ width: '100%', height: 'auto', borderRadius: '10px' }} />
-                            <p>🌴 Пальмы</p>
-                        </Link>
+<Link to="/catalog?category=palms" className="ph_t">
+    <img src="/images/categories/palms.png" alt="Пальмы" style={{ width: '100%', height: 'auto', borderRadius: '10px' }} />
+    <p>🌴 Пальмы</p>
+</Link>
 
-                        <Link to="/catalog?category=orchids" className="ph_t">
-                            <img src="/src/assets/categories/orchids.png" alt="Орхидеи" style={{ width: '100%', height: 'auto', borderRadius: '10px' }} />
-                            <p>🦋 Орхидеи</p>
-                        </Link>
+<Link to="/catalog?category=orchids" className="ph_t">
+    <img src="/images/categories/orchids.png" alt="Орхидеи" style={{ width: '100%', height: 'auto', borderRadius: '10px' }} />
+    <p>🦋 Орхидеи</p>
+</Link>
 
-                        <Link to="/catalog?category=ficus" className="ph_t">
-                            <img src="/src/assets/categories/ficus.png" alt="Фикусы" style={{ width: '100%', height: 'auto', borderRadius: '10px' }} />
-                            <p>🌳 Фикусы</p>
-                        </Link>
+<Link to="/catalog?category=ficus" className="ph_t">
+    <img src="/images/categories/ficus.png" alt="Фикусы" style={{ width: '100%', height: 'auto', borderRadius: '10px' }} />
+    <p>🌳 Фикусы</p>
+</Link>
                     </div>
                 </div>
 
