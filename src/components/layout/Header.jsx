@@ -1,10 +1,11 @@
 ﻿import React, { useState } from 'react';
-import { Link, NavLink } from 'react-router-dom';
+import { Link, NavLink, useNavigate } from 'react-router-dom';
 import useStore from '../../store/useStore';
 import AuthModal from '../ui/AuthModal';
 
 function Header() {
   const [isAuthOpen, setIsAuthOpen] = useState(false);
+  const navigate = useNavigate(); // Добавьте это
   const user = useStore(state => state.user);
   const logout = useStore(state => state.logout);
   const favorites = useStore(state => state.favorites);
@@ -17,7 +18,7 @@ function Header() {
     <header className="header">
       <div className="header_cont">
         <Link to="/" className="logo">
-          <img src="/src/assets/logo.svg" alt="PlantParadise" />
+          <img src="/PlantParadise/logo.svg" alt="PlantParadise" />
           <span className="logo_text">PlantParadise</span>
         </Link>
 
@@ -32,11 +33,11 @@ function Header() {
         </nav>
 
         <div className="h_ic">
-          <button onClick={() => window.location.href = '/favorites'} style={{ position: 'relative' }}>
+          <button onClick={() => navigate('/favorites')} style={{ position: 'relative' }}>
             🤍
             {favCount > 0 && <span className="cart-badge">{favCount}</span>}
           </button>
-          <button onClick={() => window.location.href = '/cart'} style={{ position: 'relative' }}>
+          <button onClick={() => navigate('/cart')} style={{ position: 'relative' }}>
             🛒
             {cartCount > 0 && <span className="cart-badge">{cartCount}</span>}
           </button>

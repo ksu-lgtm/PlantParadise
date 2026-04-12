@@ -33,7 +33,7 @@ const AboutPage = () => {
         </div>
         <div className="about-story-image">
           <img
-            src="/src/assets/story-image.jpg"
+            src="/PlantParadise/src/assets/story-image.jpg"
             alt="Наша история"
             style={{ width: '100%', height: '100%', objectFit: 'cover' }}
           />

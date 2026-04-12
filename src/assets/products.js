@@ -16,7 +16,7 @@ export const PRODUCTS = [
     name: 'Орхидея Фаленопсис мини белая D7',
     category: 'orchids',
     price: 1990,
-    image: '/images/products/orchid-white.jpg',
+    image: '/PlantParadise/images/products/orchid-white.jpg',
     stock: 8,
     description: 'Миниатюрная белая орхидея. Диаметр горшка 7 см. Цветет обильно и долго.'
   },
@@ -25,7 +25,7 @@ export const PRODUCTS = [
     name: 'Орхидея Фаленопсис мини Amalion Salta D7',
     category: 'orchids',
     price: 1990,
-    image: '/images/products/orchid-amalion.jpg',
+    image: '/PlantParadise/images/products/orchid-amalion.jpg',
     stock: 6,
     description: 'Нежная орхидея с розовыми цветами. Компактный размер, идеальна для подоконника.'
   },
@@ -34,7 +34,7 @@ export const PRODUCTS = [
     name: 'Орхидея Фаленопсис мини Нежный лайм D7',
     category: 'orchids',
     price: 1990,
-    image: '/images/products/orchid-lime.jpg',
+    image: '/PlantParadise/images/products/orchid-lime.jpg',
     stock: 5,
     description: 'Редкий сорт с цветами нежного лаймового оттенка. Очень элегантна.'
   },
@@ -43,7 +43,7 @@ export const PRODUCTS = [
     name: 'Орхидея Камбрия микс D12',
     category: 'orchids',
     price: 2190,
-    image: '/images/products/orchid-cambria.jpg',
+    image: '/PlantParadise/images/products/orchid-cambria.jpg',
     stock: 4,
     description: 'Яркая орхидея с пятнистыми цветами. Диаметр горшка 12 см.'
   },
@@ -52,7 +52,7 @@ export const PRODUCTS = [
     name: 'Орхидея Фаленопсис микс D12 2 ст',
     category: 'orchids',
     price: 2350,
-    image: '/images/products/orchid-mix.jpg',
+    image: '/PlantParadise/images/products/orchid-mix.jpg',
     stock: 7,
     description: 'Крупная орхидея с двумя цветоносами. Очень эффектное растение.'
   },
@@ -61,7 +61,7 @@ export const PRODUCTS = [
     name: 'Орхидея Зиготеталум Пфланзе D12',
     category: 'orchids',
     price: 2490,
-    image: '/images/products/orchid-zigopetalum.jpg',
+    image: '/PlantParadise/images/products/orchid-zigopetalum.jpg',
     stock: 3,
     description: 'Ароматная орхидея с необычными полосатыми цветами.'
   },
@@ -70,7 +70,7 @@ export const PRODUCTS = [
     name: 'Агава',
     category: 'succulents',
     price: 1200,
-    image: '/images/products/agave.jpg',
+    image: '/PlantParadise/images/products/agave.jpg',
     stock: 10,
     description: 'Крупный суккулент с жесткими мясистыми листьями. Очень неприхотлив.'
   },
@@ -79,7 +79,7 @@ export const PRODUCTS = [
     name: 'Адениум (Роза пустыни)',
     category: 'succulents',
     price: 2500,
-    image: '/images/products/adenium.jpg',
+    image: '/PlantParadise/images/products/adenium.jpg',
     stock: 5,
     description: 'Каудексное растение с яркими розовыми цветами. Напоминает маленькое дерево.'
   },
@@ -88,7 +88,7 @@ export const PRODUCTS = [
     name: 'Алоэ',
     category: 'succulents',
     price: 650,
-    image: '/images/products/aloe.jpg',
+    image: '/PlantParadise/images/products/aloe.jpg',
     stock: 15,
     description: 'Лечебное растение с мясистыми листьями. Сок помогает при ожогах.'
   },
@@ -97,7 +97,7 @@ export const PRODUCTS = [
     name: 'Кактус',
     category: 'succulents',
     price: 450,
-    image: '/images/products/cactus.jpg',
+    image: '/PlantParadise/images/products/cactus.jpg',
     stock: 20,
     description: 'Разнообразные кактусы разных форм и размеров. Идеальны для занятых людей.'
   },
@@ -106,7 +106,7 @@ export const PRODUCTS = [
     name: 'Крассула (Денежное дерево)',
     category: 'succulents',
     price: 850,
-    image: '/images/products/crassula.jpg',
+    image: '/PlantParadise/images/products/crassula.jpg',
     stock: 12,
     description: 'Популярное растение с монетовидными листьями. Считается, что приносит удачу.'
   },
@@ -115,7 +115,7 @@ export const PRODUCTS = [
     name: 'Литопс (Живые камни)',
     category: 'succulents',
     price: 400,
-    image: '/images/products/lithops.jpg',
+    image: '/PlantParadise/images/products/lithops.jpg',
     stock: 8,
     description: 'Удивительные растения, имитирующие камни. Цветут красивыми ромашками.'
   },
@@ -124,7 +124,7 @@ export const PRODUCTS = [
     name: 'Рипсалис',
     category: 'succulents',
     price: 700,
-    image: '/images/products/ripsis.jpg',
+    image: '/PlantParadise/images/products/ripsis.jpg',
     stock: 9,
     description: 'Ампельный кактус с тонкими свисающими побегами. Очень необычный.'
   },
@@ -133,7 +133,7 @@ export const PRODUCTS = [
     name: 'Хавортия',
     category: 'succulents',
     price: 500,
-    image: '/images/products/haworthia.jpg',
+    image: '/PlantParadise/images/products/haworthia.jpg',
     stock: 14,
     description: 'Миниатюрный суккулент с белыми полосками на листьях.'
   },
@@ -142,7 +142,7 @@ export const PRODUCTS = [
     name: 'Фикус Эластика Абиджан',
     category: 'ficus',
     price: 1590,
-    image: '/images/products/ficus-abidjan.jpg',
+    image: '/PlantParadise/images/products/ficus-abidjan.jpg',
     stock: 12,
     description: 'Темно-зеленые глянцевые листья. Очень неприхотливый сорт фикуса.'
   },
@@ -151,7 +151,7 @@ export const PRODUCTS = [
     name: 'Фикус эластика Белиз',
     category: 'ficus',
     price: 1290,
-    image: '/images/products/ficus-belize.jpg',
+    image: '/PlantParadise/images/products/ficus-belize.jpg',
     stock: 8,
     description: 'Пестрые листья с розовыми и кремовыми оттенками. Очень декоративен.'
   },
@@ -160,7 +160,7 @@ export const PRODUCTS = [
     name: 'Фикус Эластика Робуста',
     category: 'ficus',
     price: 1290,
-    image: '/images/products/ficus-robusta.jpg',
+    image: '/PlantParadise/images/products/ficus-robusta.jpg',
     stock: 15,
     description: 'Классический каучуковый фикус с крупными зелеными листьями.'
   },
@@ -169,7 +169,7 @@ export const PRODUCTS = [
     name: 'Фикус Экзотика цилиндр',
     category: 'ficus',
     price: 23600,
-    image: '/images/products/ficus-exotica.jpg',
+    image: '/PlantParadise/images/products/ficus-exotica.jpg',
     stock: 1,
     description: 'Крупное растение высотой 140 см. Настоящее дерево для просторных помещений.'
   },
@@ -178,7 +178,7 @@ export const PRODUCTS = [
     name: 'Фикус Бенджамина Грин Кинки',
     category: 'ficus',
     price: 1590,
-    image: '/images/products/ficus-kinki.jpg',
+    image: '/PlantParadise/images/products/ficus-kinki.jpg',
     stock: 10,
     description: 'Пестролистный фикус с мелкими листьями. Отлично поддается формировке.'
   },
@@ -187,7 +187,7 @@ export const PRODUCTS = [
     name: 'Каланюдин 45/15',
     category: 'citrus',
     price: 5190,
-    image: '/images/products/kalanjudin-45.jpg',
+    image: '/PlantParadise/images/products/kalanjudin-45.jpg',
     stock: 5,
     description: 'Компактное цитрусовое растение. Высота 45 см, горшок 15 см.'
   },
@@ -196,7 +196,7 @@ export const PRODUCTS = [
     name: 'Каланюдин 70/26 без плодов',
     category: 'citrus',
     price: 5990,
-    image: '/images/products/kalanjudin-70.jpg',
+    image: '/PlantParadise/images/products/kalanjudin-70.jpg',
     stock: 1,
     description: 'Крупный экземпляр высотой 70 см. Без плодов, но может зацвести.'
   },
@@ -205,7 +205,7 @@ export const PRODUCTS = [
     name: 'Кумкват 70/21',
     category: 'citrus',
     price: 8390,
-    image: '/images/products/kumquat.jpg',
+    image: '/PlantParadise/images/products/kumquat.jpg',
     stock: 3,
     description: 'Миниатюрные оранжевые плоды, которые едят вместе с кожурой. Очень декоративен.'
   },
@@ -214,7 +214,7 @@ export const PRODUCTS = [
     name: 'Каланюдин 80/21',
     category: 'citrus',
     price: 8590,
-    image: '/images/products/kalanjudin-80.jpg',
+    image: '/PlantParadise/images/products/kalanjudin-80.jpg',
     stock: 1,
     description: 'Крупное растение высотой 80 см. Обильно цветет и плодоносит.'
   },
@@ -223,7 +223,7 @@ export const PRODUCTS = [
     name: 'Каланюдин 65/21',
     category: 'citrus',
     price: 9190,
-    image: '/images/products/kalanjudin-65.jpg',
+    image: '/PlantParadise/images/products/kalanjudin-65.jpg',
     stock: 4,
     description: 'Цитрус с ароматными цветами. Высота 65 см.'
   },
@@ -232,7 +232,7 @@ export const PRODUCTS = [
     name: 'Лимонное дерево 165/40',
     category: 'citrus',
     price: 29786,
-    image: '/images/products/lemon-tree.jpg',
+    image: '/PlantParadise/images/products/lemon-tree.jpg',
     stock: 1,
     description: 'Крупное лимонное дерево высотой 165 см. Дает настоящие лимоны!'
   },
@@ -241,7 +241,7 @@ export const PRODUCTS = [
     name: 'Алоказия Алькадия',
     category: 'foliage',
     price: 1500,
-    image: '/images/products/alocasia.jpg',
+    image: '/PlantParadise/images/products/alocasia.jpg',
     stock: 7,
     description: 'Крупные стреловидные листья с яркими жилками. Любит влажность.'
   },
@@ -250,7 +250,7 @@ export const PRODUCTS = [
     name: 'Аглаонема',
     category: 'foliage',
     price: 1200,
-    image: '/images/products/aglaonema.jpg',
+    image: '/PlantParadise/images/products/aglaonema.jpg',
     stock: 10,
     description: 'Пестрые листья, хорошо растет в тени. Очищает воздух.'
   },
@@ -259,7 +259,7 @@ export const PRODUCTS = [
     name: 'Бамбук',
     category: 'foliage',
     price: 900,
-    image: '/images/products/bamboo.jpg',
+    image: '/PlantParadise/images/products/bamboo.jpg',
     stock: 15,
     description: 'Символ удачи и процветания. Растет в воде или грунте.'
   },
@@ -268,7 +268,7 @@ export const PRODUCTS = [
     name: 'Аспарагус',
     category: 'foliage',
     price: 850,
-    image: '/images/products/asparagus.jpg',
+    image: '/PlantParadise/images/products/asparagus.jpg',
     stock: 12,
     description: 'Ажурная зелень, напоминающая папоротник. Красиво свисает из кашпо.'
   },
@@ -277,7 +277,7 @@ export const PRODUCTS = [
     name: 'Аспидистра',
     category: 'foliage',
     price: 1100,
-    image: '/images/products/aspidistra.jpg',
+    image: '/PlantParadise/images/products/aspidistra.jpg',
     stock: 8,
     description: 'Железное растение - выживает в самых тяжелых условиях.'
   },
@@ -286,7 +286,7 @@ export const PRODUCTS = [
     name: 'Диффенбахия',
     category: 'foliage',
     price: 1300,
-    image: '/images/products/dieffenbachia.jpg',
+    image: '/PlantParadise/images/products/dieffenbachia.jpg',
     stock: 9,
     description: 'Крупные пестрые листья. Быстро растет, очищает воздух.'
   },
@@ -295,7 +295,7 @@ export const PRODUCTS = [
     name: 'Азалия',
     category: 'flowering',
     price: 1600,
-    image: '/images/products/azalea.jpg',
+    image: '/PlantParadise/images/products/azalea.jpg',
     stock: 6,
     description: 'Обильно цветущий кустик. Цветы похожи на маленькие розы.'
   },
@@ -304,7 +304,7 @@ export const PRODUCTS = [
     name: 'Гардения',
     category: 'flowering',
     price: 1800,
-    image: '/images/products/gardenia.jpg',
+    image: '/PlantParadise/images/products/gardenia.jpg',
     stock: 5,
     description: 'Белоснежные ароматные цветы. Требует внимания, но оно того стоит.'
   },
@@ -313,7 +313,7 @@ export const PRODUCTS = [
     name: 'Гибискус',
     category: 'flowering',
     price: 1300,
-    image: '/images/products/hibiscus.jpg',
+    image: '/PlantParadise/images/products/hibiscus.jpg',
     stock: 7,
     description: 'Крупные яркие цветы разных оттенков. Цветет все лето.'
   },
@@ -322,7 +322,7 @@ export const PRODUCTS = [
     name: 'Антуриум',
     category: 'flowering',
     price: 1500,
-    image: '/images/products/anthurium.jpg',
+    image: '/PlantParadise/images/products/anthurium.jpg',
     stock: 8,
     description: 'Красные глянцевые цветы. Цветет круглый год.'
   },
@@ -331,7 +331,7 @@ export const PRODUCTS = [
     name: 'Глоксиния (Синнингия)',
     category: 'flowering',
     price: 950,
-    image: '/images/products/gloxinia.jpg',
+    image: '/PlantParadise/images/products/gloxinia.jpg',
     stock: 10,
     description: 'Бархатистые листья и крупные цветы-колокольчики.'
   },
@@ -340,7 +340,7 @@ export const PRODUCTS = [
     name: 'Ардизия',
     category: 'flowering',
     price: 1400,
-    image: '/images/products/ardisia.jpg',
+    image: '/PlantParadise/images/products/ardisia.jpg',
     stock: 4,
     description: 'Декоративна и в цветении, и с красными ягодами после.'
   }

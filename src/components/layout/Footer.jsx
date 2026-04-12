@@ -6,7 +6,7 @@ function Footer() {
     <footer className="footer">
       <div className="footer_cont">
         <div className="footer_logo">
-          <img src="/src/assets/logo.svg" alt="PlantParadise" />
+          <img src="/PlantParadise/logo.svg" alt="PlantParadise" />
           <span>PlantParadise</span>
         </div>
         <div className="footer_links">
