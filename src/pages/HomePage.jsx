@@ -38,7 +38,7 @@ const HomePage = () => {
                 <div className="to_find">
                     <p className="cont_t">У нас вы найдёте:</p>
                     <div className="grid_cont">
-                        <Link to="/catalog?category=succulents" className="ph_t">
+                        <Link to="./catalog?category=succulents" className="ph_t">
                             <div style={{ height: '120px', overflow: 'hidden' }}>
                                 <img src="/PlantParadise/images/categories/succulents.png" alt="Суккуленты" style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
                             </div>
