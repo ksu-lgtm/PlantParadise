@@ -1,4 +1,4 @@
-#https://ksu-lgtm.github.io/PlantParadise/
+https://ksu-lgtm.github.io/PlantParadise/
 # react_mag2 — TechStore React SPA
 
 [![React](https://img.shields.io/badge/React-18-61dafb?logo=react)](https://react.dev)
